@@ -18,7 +18,10 @@
 ![Status](https://img.shields.io/badge/status-Active-brightgreen)
 
 
-Badges help convey the project’s status and achievements at a glance.
+## Here Name
+Hadi Setya Sugiantoro, Oei
+## NIM
+23.01.53.0038
 
 ## 🌤️ Cuaca Semarang - Aplikasi Informasi Cuaca Real-Time
 Cuaca Semarang adalah aplikasi mobile sederhana yang menampilkan informasi cuaca terkini dan prediksi cuaca harian untuk wilayah Semarang, Indonesia. Aplikasi ini dirancang untuk memberikan informasi yang cepat, ringan, dan akurat, langsung dari genggaman Anda.
